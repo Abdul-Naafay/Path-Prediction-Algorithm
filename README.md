@@ -6,13 +6,21 @@ This project implements path prediction using K-Nearest Neighbors (KNN) and Deci
 
 The dataset contains x and y coordinates representing paths. The data is divided into training and testing sets.
 
-## Requirements
 
-- numpy
-- matplotlib
-- scikit-learn
+## Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/path-prediction.git
+cd path-prediction
+
 
 You can install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+
+```Usage
+python path_prediction.py
+
