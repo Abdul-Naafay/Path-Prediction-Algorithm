@@ -1,6 +1,6 @@
 # Path Prediction using KNN and Decision Tree
 
-This project implements path prediction using K-Nearest Neighbors (KNN) and Decision Tree algorithms.
+This group project implements path prediction using K-Nearest Neighbors (KNN) and Decision Tree algorithms.
 
 ## Dataset
 
